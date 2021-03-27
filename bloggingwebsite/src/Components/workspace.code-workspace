@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Ghostpedia"
+		},
+		{
+			"name": "BloggingWebsite",
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
