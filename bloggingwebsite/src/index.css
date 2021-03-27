@@ -92,3 +92,24 @@ a{
   
  
 }
+
+.cards{
+  width : 80%;
+  margin: 0 10% 0 10% ;
+  display: flex;
+  justify-content: space-around;
+}
+ 
+.cards .card{
+  background-color: cornsilk;
+ height: 300px;
+ width: 230px;
+ }
+.cards button{
+  height: 15%;
+  background-color: cornsilk;
+}
+
+.cards button:hover{
+  color: green;
+}
